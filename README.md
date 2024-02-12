@@ -1,8 +1,8 @@
 <h1># peters</ h1>
 <head>
-<title>
+<h1>
 my frirst web design
-</ title>
+</h1>
 </ head>
 <body>
 My first github page repository
